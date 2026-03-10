@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# grocery-pricing-comparison
-Product prototype that compares grocery prices across stores to help users optimize shopping costs.
-=======
 **Problem**
 Grocery shoppers struggle to compare prices across stores.
 
@@ -17,4 +13,4 @@ Savings estimation
 Python
 Pandas
 Streamlit
->>>>>>> 1dd1cb9 (Initial Commit)
+
